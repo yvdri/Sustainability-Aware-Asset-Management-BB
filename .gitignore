@@ -1,0 +1,17 @@
+# Données — ne jamais pousser sur GitHub (fichiers trop lourds)
+Data/
+Data_2026/
+*.xlsx
+*.xls
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
