@@ -29,7 +29,7 @@ git branch              # Vérifier sur quelle branche on est
 
 # Fin de session — Envoyer son travail
 git status                        # Voir les fichiers modifiés
-git add *.ipynb *.py *.md         # Ajouter notebooks, scripts et docs — PAS les données
+git add *.ipynb *.md         # Ajouter notebooks, scripts et docs — PAS les données
 git commit -m "message clair"
 git push origin prenom/ma-tache   # Envoyer sa branche sur GitHub
 # Puis créer une Pull Request sur GitHub (voir section dédiée ci-dessous)
