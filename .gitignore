@@ -5,6 +5,9 @@ Data_2026/
 *.xls
 *.csv
 
+# Project guidelines (do not push)
+SAAM_Project_2026-4.pdf
+
 # Python
 __pycache__/
 *.py[cod]
